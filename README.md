@@ -5,7 +5,7 @@
 ```
     ╔═══════════════════════════════════════════════════════╗
     ║                                                       ║
-    ║        AI Engineer × Full Stack Developer             ║
+    ║        AI Engineer × Developer                        ║
     ║        MS Artificial Intelligence @ IIT               ║
     ║                                                       ║
     ╚═══════════════════════════════════════════════════════╝
@@ -54,6 +54,7 @@ class Engineer:
 <div align="center">
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#6366f1','primaryTextColor':'#fff','primaryBorderColor':'#4f46e5','lineColor':'#8b5cf6','secondaryColor':'#ec4899','tertiaryColor':'#10b981','background':'#1e293b','mainBkg':'#334155','secondBkg':'#475569','textColor':'#f1f5f9','border1Color':'#6366f1','border2Color':'#8b5cf6'}}}%%
 mindmap
   root((AI Systems))
     Agent Architectures
@@ -89,7 +90,7 @@ mindmap
 
 ---
 
-## 💡 Philosophy
+## 💡 Goal
 
 <div align="center">
 
