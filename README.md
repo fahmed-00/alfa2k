@@ -1,6 +1,4 @@
-# Fateen Ahmed ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
-
+# Fateen Ahmed
 
 <div align="center">
 
@@ -107,5 +105,6 @@ mindmap
 
 **Open to collaborations on AI/ML projects**
 
-
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+ 
 </div>
